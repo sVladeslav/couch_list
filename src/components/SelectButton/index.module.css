@@ -1,0 +1,13 @@
+
+.selectButton{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background-color: #DBE0E6;
+    margin-left: auto;
+    align-self: center;
+}
+
+.selected{
+    background-color: #48C1C2;
+}
